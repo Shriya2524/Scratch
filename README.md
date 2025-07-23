@@ -26,7 +26,7 @@ This Scratch project is an interactive game/application created to showcase:
 ---
 
 ## ▶️ How to Run  
-1. Open the `.sb3` file in the [Scratch Online Editor](https://scratch.mit.edu/projects/editor/) or use the Scratch desktop app.  
+1. Download the '.sb3' raw file and open the `.sb3` file in the [Scratch Online Editor](https://scratch.mit.edu/projects/editor/) or use the Scratch desktop app.  
 2. Click the green flag **▶** to start the project.  
 3. Follow the on-screen instructions to play.  
 
